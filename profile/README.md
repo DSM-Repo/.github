@@ -18,3 +18,8 @@ Reach Every Potential Opportunity
 **Resume book refers to a book made by collecting the resumes of DSM students in the format of repo**
 
 </aside>
+<br/>
+
+> [!NOTE]
+>
+> [Repository usage guide](https://shiny-laser-4b7.notion.site/REPO-f1d309ebf8344edd8f95a15a76130c5f?pvs=74)
