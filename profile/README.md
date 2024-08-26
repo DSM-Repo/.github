@@ -23,3 +23,9 @@ Reach Every Potential Opportunity
 > [!NOTE]
 >
 > [Repository usage guide](https://shiny-laser-4b7.notion.site/REPO-f1d309ebf8344edd8f95a15a76130c5f?pvs=74)
+
+---
+
+<p align="center">
+  Made with ❤️ by the REPO team
+</p>
