@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/95a0ad4a-1c8d-4761-a39c-f80081d3583e)
+![image](https://github.com/user-attachments/assets/85f87320-4c59-48c3-8227-d21df85bf8de)
 
 <aside>
 <b>REPO is DSM portfolio platform :)<b/>
