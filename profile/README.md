@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/85f87320-4c59-48c3-8227-d21df85bf8de)
 
 <aside>
-<b>REPO is DSM portfolio platform :)<b/>
+<b>REPO is DSM resume platform :)<b/>
 
 ## **Vision**
 
